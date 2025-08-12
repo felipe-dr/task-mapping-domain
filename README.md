@@ -31,4 +31,18 @@ Domain Expert: Seria muito útil se o sistema pudesse nos permitir criar e geren
 Dado o diálogo acima, você deve conseguir responder as seguintes perguntas:
 
 - Quais as entidades de domínio?
+  - Estoque
+  - Produto
+  - Pedido
+  - Cliente
+  - Vendas
+  - Fornecedor
+  - Histórico
+  - Notificação
 - Quais as ações (casos de uso) que essa aplicação deve ter?
+  - Gear ordem de compra de produto
+  - Consultar produto
+  - Consultar estoque
+  - Notificar estoque de produto
+  - Gerar histórico de vendas
+  - Gerar histórico de estoque
